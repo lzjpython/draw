@@ -1,54 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2022-06-14T06:02:04.626Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="o3dME6bjm7AkJ5DlgRk0" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-14T06:54:50.742Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="DHMNWInOM3z6MTmZxKsV" version="20.0.1" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="981" dy="630" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="3nuBFxr9cyL0pnOWT2aG-1" value=":Object" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="510" y="900" width="100" height="300" as="geometry" />
-        </mxCell>
-        <mxCell id="3nuBFxr9cyL0pnOWT2aG-2" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="3nuBFxr9cyL0pnOWT2aG-1" vertex="1">
-          <mxGeometry x="45" y="70" width="10" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="3nuBFxr9cyL0pnOWT2aG-3" value="dispatch" style="verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;shadow=0;strokeWidth=1;" parent="3nuBFxr9cyL0pnOWT2aG-1" target="3nuBFxr9cyL0pnOWT2aG-2" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-15" y="70" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3nuBFxr9cyL0pnOWT2aG-4" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="3nuBFxr9cyL0pnOWT2aG-1" vertex="1">
-          <mxGeometry x="50" y="120" width="10" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="3nuBFxr9cyL0pnOWT2aG-5" value=":Object" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="690" y="900" width="100" height="300" as="geometry" />
-        </mxCell>
-        <mxCell id="3nuBFxr9cyL0pnOWT2aG-6" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="3nuBFxr9cyL0pnOWT2aG-5" vertex="1">
-          <mxGeometry x="45" y="80" width="10" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="3nuBFxr9cyL0pnOWT2aG-7" value="return" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;shadow=0;strokeWidth=1;" parent="1" source="3nuBFxr9cyL0pnOWT2aG-6" target="3nuBFxr9cyL0pnOWT2aG-2" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="275" y="236" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3nuBFxr9cyL0pnOWT2aG-8" value="dispatch" style="verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;shadow=0;strokeWidth=1;" parent="1" source="3nuBFxr9cyL0pnOWT2aG-2" target="3nuBFxr9cyL0pnOWT2aG-6" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="275" y="160" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3nuBFxr9cyL0pnOWT2aG-9" value="callback" style="verticalAlign=bottom;endArrow=block;entryX=1;entryY=0;shadow=0;strokeWidth=1;" parent="1" source="3nuBFxr9cyL0pnOWT2aG-6" target="3nuBFxr9cyL0pnOWT2aG-4" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="240" y="200" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3nuBFxr9cyL0pnOWT2aG-10" value="return" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=1;exitY=0.95;shadow=0;strokeWidth=1;" parent="1" source="3nuBFxr9cyL0pnOWT2aG-4" target="3nuBFxr9cyL0pnOWT2aG-6" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="240" y="257" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="WyUxazYEC5zUgRx7GoL1-13" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;用户&lt;/font&gt;&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="40" width="100" height="370" as="geometry" />
         </mxCell>
         <mxCell id="WyUxazYEC5zUgRx7GoL1-46" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="WyUxazYEC5zUgRx7GoL1-13">
-          <mxGeometry x="45" y="70" width="10" height="270" as="geometry" />
+          <mxGeometry x="45" y="70" width="10" height="260" as="geometry" />
         </mxCell>
         <mxCell id="WyUxazYEC5zUgRx7GoL1-72" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="WyUxazYEC5zUgRx7GoL1-13">
           <mxGeometry x="45" y="120" width="10" height="20" as="geometry" />
@@ -85,6 +45,16 @@
         </mxCell>
         <mxCell id="WyUxazYEC5zUgRx7GoL1-87" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="WyUxazYEC5zUgRx7GoL1-40">
           <mxGeometry x="45" y="250" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WyUxazYEC5zUgRx7GoL1-100" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;查询是否封榜&lt;/font&gt;&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;" edge="1" parent="WyUxazYEC5zUgRx7GoL1-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="35" y="150" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="65" y="150" />
+              <mxPoint x="65" y="160" />
+            </Array>
+            <mxPoint x="50" y="160" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="WyUxazYEC5zUgRx7GoL1-42" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;排行版规则&lt;/font&gt;&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="40" width="100" height="370" as="geometry" />
@@ -125,7 +95,7 @@
           <mxGeometry x="45" y="70" width="10" height="270" as="geometry" />
         </mxCell>
         <mxCell id="WyUxazYEC5zUgRx7GoL1-65" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="WyUxazYEC5zUgRx7GoL1-63">
-          <mxGeometry x="45" y="90" width="10" height="20" as="geometry" />
+          <mxGeometry x="45" y="90" width="10" height="240" as="geometry" />
         </mxCell>
         <mxCell id="WyUxazYEC5zUgRx7GoL1-73" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;投递&lt;/font&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=0.779;exitY=1.034;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="WyUxazYEC5zUgRx7GoL1-70" target="WyUxazYEC5zUgRx7GoL1-40">
           <mxGeometry width="80" relative="1" as="geometry">
@@ -183,6 +153,124 @@
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="410" y="340" as="sourcePoint" />
             <mxPoint x="490" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WyUxazYEC5zUgRx7GoL1-101" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;cms&lt;/font&gt;&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="480" width="100" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="WyUxazYEC5zUgRx7GoL1-112" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;创建排行榜&lt;/font&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="WyUxazYEC5zUgRx7GoL1-101" target="WyUxazYEC5zUgRx7GoL1-102">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="50" y="80" as="sourcePoint" />
+            <mxPoint x="130" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WyUxazYEC5zUgRx7GoL1-132" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="WyUxazYEC5zUgRx7GoL1-101">
+          <mxGeometry x="45" y="80" width="10" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="WyUxazYEC5zUgRx7GoL1-102" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;排行榜管理系统&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="480" width="100" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="WyUxazYEC5zUgRx7GoL1-113" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="WyUxazYEC5zUgRx7GoL1-102">
+          <mxGeometry x="45" y="80" width="10" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="WyUxazYEC5zUgRx7GoL1-114" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="WyUxazYEC5zUgRx7GoL1-102">
+          <mxGeometry x="50" y="100" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WyUxazYEC5zUgRx7GoL1-125" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="WyUxazYEC5zUgRx7GoL1-102">
+          <mxGeometry x="50" y="160" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WyUxazYEC5zUgRx7GoL1-127" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;成功&lt;/font&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="WyUxazYEC5zUgRx7GoL1-102" source="WyUxazYEC5zUgRx7GoL1-110">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="190.5" as="targetPoint" />
+            <mxPoint x="180" y="190" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WyUxazYEC5zUgRx7GoL1-128" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="WyUxazYEC5zUgRx7GoL1-102">
+          <mxGeometry x="50" y="220" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WyUxazYEC5zUgRx7GoL1-134" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;返回排行榜id&lt;/font&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="WyUxazYEC5zUgRx7GoL1-102" target="WyUxazYEC5zUgRx7GoL1-101">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="45" y="290" as="sourcePoint" />
+            <mxPoint x="-35" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WyUxazYEC5zUgRx7GoL1-109" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;用户数据汇总表&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="480" width="100" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="WyUxazYEC5zUgRx7GoL1-129" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="WyUxazYEC5zUgRx7GoL1-109">
+          <mxGeometry x="45" y="220" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WyUxazYEC5zUgRx7GoL1-110" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;redis排行榜&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="480" width="100" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="WyUxazYEC5zUgRx7GoL1-124" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="WyUxazYEC5zUgRx7GoL1-110">
+          <mxGeometry x="45" y="160" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WyUxazYEC5zUgRx7GoL1-111" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;redis用户集合&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="375" y="480" width="100" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="WyUxazYEC5zUgRx7GoL1-115" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="WyUxazYEC5zUgRx7GoL1-111">
+          <mxGeometry x="45" y="100" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WyUxazYEC5zUgRx7GoL1-130" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;创建&lt;/font&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=1.107;exitY=0.034;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WyUxazYEC5zUgRx7GoL1-111" target="WyUxazYEC5zUgRx7GoL1-109">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-74.99999999999977" y="219.30999999999995" as="sourcePoint" />
+            <mxPoint x="184.5" y="219.30999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WyUxazYEC5zUgRx7GoL1-117" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;成功&lt;/font&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;" edge="1" source="WyUxazYEC5zUgRx7GoL1-115" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="609" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WyUxazYEC5zUgRx7GoL1-116" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;创建&lt;/font&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;exitX=1.107;exitY=0.034;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="WyUxazYEC5zUgRx7GoL1-115" parent="1" source="WyUxazYEC5zUgRx7GoL1-114">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="580" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WyUxazYEC5zUgRx7GoL1-126" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;创建&lt;/font&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=1.107;exitY=0.034;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="WyUxazYEC5zUgRx7GoL1-110">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300.00000000000017" y="641.02" as="sourcePoint" />
+            <mxPoint x="418.93" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WyUxazYEC5zUgRx7GoL1-131" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;成功&lt;/font&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;entryX=0.969;entryY=1.023;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="WyUxazYEC5zUgRx7GoL1-128">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="730" as="targetPoint" />
+            <mxPoint x="709.5" y="730" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WyUxazYEC5zUgRx7GoL1-135" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;业务&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="860" width="100" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="WyUxazYEC5zUgRx7GoL1-152" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="WyUxazYEC5zUgRx7GoL1-135">
+          <mxGeometry x="45" y="80" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WyUxazYEC5zUgRx7GoL1-145" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;排行榜管理系统&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="860" width="100" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="WyUxazYEC5zUgRx7GoL1-146" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="WyUxazYEC5zUgRx7GoL1-145">
+          <mxGeometry x="45" y="80" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WyUxazYEC5zUgRx7GoL1-156" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;查询排行榜是否存在&lt;/font&gt;&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;elbow=vertical;" edge="1" parent="WyUxazYEC5zUgRx7GoL1-145">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="45" y="80" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="75" y="80" />
+            </Array>
+            <mxPoint x="50" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WyUxazYEC5zUgRx7GoL1-157" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;返回操作接口&lt;/font&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;elbow=vertical;" edge="1" parent="WyUxazYEC5zUgRx7GoL1-145" target="WyUxazYEC5zUgRx7GoL1-135">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="45" y="140" as="sourcePoint" />
+            <mxPoint x="-35" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WyUxazYEC5zUgRx7GoL1-153" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;排行榜id&lt;/font&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1" target="WyUxazYEC5zUgRx7GoL1-145">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="130" y="940" as="sourcePoint" />
+            <mxPoint x="210" y="940" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
